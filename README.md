@@ -1,5 +1,5 @@
 # flunies
-One collaboratively shared app that will help with flu, corona and other major outbreaks.
+One collaboratively developer and shared app that will help with flu, corona and other major outbreaks.
 
 With the recent Corona outbreak, I have been thinking on how to help out. 
 
