@@ -1,9 +1,11 @@
 # flunies
-One collaboratively developer and shared app that will help with flu, corona and other major outbreaks.
+One collaboratively developed and shared app that will help with flu, corona and other major outbreaks.
 
 With the recent Corona outbreak, I have been thinking on how to help out. 
 
-Please mail mfagerdal@gmail.com for collaborative work.  
+Please mail mfagerdal@gmail.com for collaborative work. Include short details on who you are and what you can contrbute with. 
+
+Thanks! 
 
 Description: 
 A multidevice app that will:
